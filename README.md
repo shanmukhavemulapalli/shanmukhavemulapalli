@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shanmukhavemulapalli
-- 👀 I’m interested in graphics
 - 🌱 I’m currently learning CSE
 - 📫 How to reach me @ sahnmukhavemulapalli@gmail.com
 
