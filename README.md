@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vemulapalli Shanmukha Sai!
+# 👋 Hi, I'm [Vemulapalli Shanmukha Sai](shanmukhavemulapalli.github.io)!
 
 I'm a passionate **Data Science graduate student** at the **University of Houston** with a background in **Computer Science and Engineering**. My academic and project work focus on applying machine learning and deep learning to real-world problems in **medical diagnostics**, **signal/image analysis**, and **intelligent recommendation systems**.
 
